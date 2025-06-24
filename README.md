@@ -26,7 +26,7 @@ The goal is to assess how well Prithvi EO performs when applied to **coarser res
 - `prithvi_S3_CM_model_training_eval.ipynb`:  
   Defines the model, trains it on Sentinel-3 data, and evaluates performance.
 
-- `prithvi_S3_investigations_slides.pdf`:  
+- `Prithvi_Sentinel3_Segmentation_Presentation.pdf`:  
   A slide deck summarizing methodology, setup, and findings. Includes visuals and metrics for performance comparison.
 
 ---
