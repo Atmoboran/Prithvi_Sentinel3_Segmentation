@@ -1,6 +1,6 @@
 # 🌍 Fine-Tuning the Prithvi EO Foundation Model on Sentinel-3 Data
 
-This repository demonstrates how to fine-tune the **Prithvi EO 2.0 Foundation Model** (developed by IBM and NASA) using **TerraTorch** ([GitHub link](https://github.com/IBM/terratorch)) on **Sentinel-3 SLSTR** satellite imagery.
+This repository demonstrates how to fine-tune the **Prithvi EO 2.0 Foundation Model** (developed by IBM and NASA) using [**TerraTorch**](https://github.com/IBM/terratorch) on **Sentinel-3 SLSTR** satellite imagery.
 
 The goal is to assess how well Prithvi EO performs when applied to **coarser resolution data**, different from the Sentinel-2 HLS dataset it was originally pre-trained on.
 
